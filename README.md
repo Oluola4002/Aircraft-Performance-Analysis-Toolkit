@@ -1,2 +1,15 @@
 # Aircraft-Performance-Analysis-Toolkit
-A Python-based aircraft performance analysis toolkit featuring both command-line and graphical user interface (GUI) calculators for evaluating flight performance, aerodynamic forces, weight and balance, and flight dynamics.
+
+A Python-based aircraft performance analysis tool featuring both
+a command-line (CLI) version and a graphical user interface (GUI) version.
+
+The application computes key aircraft parameters such as:
+
+- Range
+- Endurance
+- Lift and Drag Forces
+- Weight and Balance
+- Center of Gravity
+- Flight Dynamics
+
+Built for aerospace engineering education, simulation, and performance analysis.
